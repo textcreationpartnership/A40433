@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Queen at Whitehall, December the 10th, 1693 by Sa. Freeman.</title>
+            <author>Freeman, Samuel, 1643-1700.</author>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40433</idno><idno type="EEBO-CITATION">15539244</idno>
+  <idno type="VID">103647</idno>
+  <idno type="EEBO-PROQUEST">2248503014</idno>
+  
+            <idno type="STC">Wing F2147</idno>
+            <idno type="STC">ESTC R35684</idno>
+            <idno type="OCLC">15539244</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103647)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1149:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Queen at Whitehall, December the 10th, 1693 by Sa. Freeman.</title>
+                  <author>Freeman, Samuel, 1643-1700.</author>
+               </titleStmt>
+               <extent>[4], 22, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIV [1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains half-title page.</note>
+                  <note>"Published by Her Majesty's special command.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Epistles of John, 1st, V, 4 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:103647:1"/>
+            <pb facs="tcp:103647:1"/>
+            <p>A SERMON Preached before the QUEEN, <hi>DECEMBER</hi> the 10th. 1693.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:103647:2"/>
+            <pb facs="tcp:103647:2"/>
+            <p>A SERMON Preach'd before the QUEEN, AT WHITEHALL, <hi>December</hi> the 10th. 1693.</p>
+            <p>By <hi>S A. FREEMAN,</hi> D. D. Dean of <hi>Peter<g ref="char:EOLhyphen"/>borough;</hi> and Chaplain in Ordinary to Their Majesties.</p>
+            <p>
+               <hi>Publish'd by Her Majesty's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Ric. Chiswell,</hi> at the <hi>Rose</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCXCIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:103647:3"/>
+            <pb n="1" facs="tcp:103647:3"/>
+            <epigraph>
+               <q>
+                  <bibl>1 JOHN V. 4.</bibl>
+                  <p>This is the Victory that overcometh the World, even our Faith.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">F</seg>OR the better and more use<g ref="char:EOLhyphen"/>ful treating on these Words, it will be necessary to give an Answer to these Four En<g ref="char:EOLhyphen"/>quiries:
+<list>
+                  <item>I. What it is to overcome the World?</item>
+                  <item>II. What that Faith is that overcomes the World?</item>
+                  <item>III. What are the Strengths and Forces of Faith, whereby it obtains this Victory?</item>
+                  <item>IV. How it comes to pass, that notwithstand<g ref="char:EOLhyphen"/>ing them, Faith is so often overcome by the World?</item>
+               </list>
+            </p>
+            <div n="1" type="part">
+               <head>I. What it is to overcome the World?</head>
+               <p>By the <hi>World</hi> is meant the Things of the World, as well the Profits, and Honours, and Pleasures, as the Afflictions and Persecutions of
+<pb n="2" facs="tcp:103647:4"/> it; and to <hi>overcome</hi> these, is, Not to be overcome by them, to stand it out Resolute and Unshaken against all their Temptations.</p>
+               <p>If you then would know, Who is the great Conqueror of the world? It is not he, who out of a restless Ambition and insatiable Thirst for Glory and Empire, carries his Victorious Arms to the remotest Parts of the earth; but the man under this Twofold Character:</p>
+               <p n="1">1. Who hath subdued his Inclinations and Appetites to all things here below, and modera<g ref="char:EOLhyphen"/>ted his Affections and Passions about them.</p>
+               <p>Who exercising severe and impartial Judg<g ref="char:EOLhyphen"/>ment on the good things of the world, and per<g ref="char:EOLhyphen"/>ceiving them to have no great Worth in them<g ref="char:EOLhyphen"/>selves, nor to be of any considerable Advantage to men; that they afford no present Content, nor future Happiness to the Soul; becomes so arm'd against their Tempting Force, that they can make no impression on his mind; that he neither desires them immoderately; nor pursues them unjustly; nor uses them selfishly, but for the benefit of others as well as himself; is not transported with excessive Joy in the acquisition of them, nor overwhelm'd with disconsolate
+<pb n="3" facs="tcp:103647:4"/> Sorrow in the missing of them, or parting from them.</p>
+               <p>Who on the other hand, duly weighing the nature and consequences of the evil things of the World, and finding them either to be mere<g ref="char:EOLhyphen"/>ly Imaginary, or short and transitory; that ma<g ref="char:EOLhyphen"/>ny of them admit of a remedy, and none of them exclude comfort; that all of them may have a very profitable use, and a very happy end; becomes also so fortify'd against their noxious Powers, that they can raise no tumults in his mind; that he is neither affrighted at the thoughts of them, nor impatient when they are upon him, nor uses any indirect means to prevent or remove them.</p>
+               <p n="2">2. Who, as a consequence of this, will not, either to gain the World, or to keep it, do a base and an unworthy Action; who can walk amongst Snares and Gins, and not be entrap'd; on troubled Waters, and, like his Saviour, not sink; whom all the Glories of the World can<g ref="char:EOLhyphen"/>not tempt into a wicked Enterprize, nor all its Oppositions hinder from pursuing virtuous ones; who in all Cases and Conditions (whe<g ref="char:EOLhyphen"/>ther prosperous or adverse) is always the same, and goes the same way; whose mind is not
+<pb n="4" facs="tcp:103647:5"/> diverted from its good purposes, nor his foot turn'd out of the right way by any outward Contingencies; who, let the Weather be fair or foul, let the World smile or frown on him, let him get or lose by it, will do what his duty requires; no worldly Circumstances can shake the stability of his mind; neither force nor flattery can work on his constant and un<g ref="char:EOLhyphen"/>yielding Temper; his Heart is neither to be broken nor soften'd; like the great <hi>Fabritius,</hi> he is neither to be caress'd nor vanquish'd. In sum, it's the man, who is greater than his Pe<g ref="char:EOLhyphen"/>rils, and stronger than his Desires.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. What that Faith is, that overcomes the world?</head>
+               <p>Now of Faith there are several kinds: There is a Faith grounded on probable Reason, upon likely and promising Arguments, which yet are not evident nor certain, but may possibly prove false, tho they seem to be true; and this is ra<g ref="char:EOLhyphen"/>ther Opinion than Faith.</p>
+               <p>Again, There is a Faith grounded on evident and certain Reason, wherein if a man's Faculties themselves are to be trusted, he cannot be mi<g ref="char:EOLhyphen"/>staken; and this is rather Knowledge than Faith.</p>
+               <pb n="5" facs="tcp:103647:5"/>
+               <p>But then there is a Faith grounded on Di<g ref="char:EOLhyphen"/>vine Revelation, the Word of God; and this is properly call'd Faith, and that Faith that overcomes the World; to wit, an hearty be<g ref="char:EOLhyphen"/>lief of all those things that God heretofore by his Prophets, and in this last Age by his Son hath made known to the world; whether they be Precepts, or Prohibitions, or Promises, or Threatnings, or matters of Fact, especially the Actions and Passions of our Blessed Saviour, or Declarations concerning the Nature of God, the workings of the Spirit, and the merito<g ref="char:EOLhyphen"/>rious Effects and Consequences of the Son of God's great undertaking in order to Man's Sal<g ref="char:EOLhyphen"/>vation. The Apostle in the next Verse after the Text, comprehends all under this one Ar<g ref="char:EOLhyphen"/>ticle; <hi>The believing Jesus to be the Son of God.</hi>
+                  <note place="margin">Verse 5.</note>
+                  <hi>Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?</hi> For he that believeth that Jesus is the Son of God, must believe all that he said, and taught, to be true.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. Now what are the strengths and forces of Faith, by which it obtains this Victory,
+<pb n="6" facs="tcp:103647:6"/> is my third Enquiry, and may find an Answer in these following particulars.</head>
+               <p n="1">1. As the Christian Faith affords many Excel<g ref="char:EOLhyphen"/>lent Precepts to this purpose; To name some of them;<note place="margin">1 Joh. 2.15.</note>
+                  <hi>Not to love the world, nor the things of the world.</hi>
+                  <note place="margin">Matt. 6.19. Col. 3.2. Rom 12.2 1 Cor. 7.31. Jam. 1.27.</note>
+                  <hi>Not to lay up treasures on earth. Not to set our affections on things here below. Not to be conform'd to this world. To use the world as not abusing it. To keep our selves unspotted from the world.</hi> Precepts of that direct use and tenden<g ref="char:EOLhyphen"/>cy to the Ease and Tranquility, to the Ho<g ref="char:EOLhyphen"/>nour and Perfection of Human Nature, that were they not enforc'd by Divine Authority, would yet be sufficiently recommended by their own intrinsick Worth and Excellency.</p>
+               <p n="2">2. As the Christian Faith sets before us a most powerful Example, that of our Blessed Saviour; He voluntarily depriv'd himself of the Riches, Honours and Pleasures of this World, to make them vile and contempti<g ref="char:EOLhyphen"/>ble; he underwent outrages of all sorts, the contradiction of Sinners, the sharpest Suffe<g ref="char:EOLhyphen"/>rings, to make them easy and tolerable. Now what can more effectually breed in us a dis<g ref="char:EOLhyphen"/>regard
+<pb n="7" facs="tcp:103647:6"/> of this World, with all its deceitful Pomps and Vanities? What can more per<g ref="char:EOLhyphen"/>fectly reconcile our minds to the heaviest pressures of affliction that can be laid upon us? than to behold what a profound Humi<g ref="char:EOLhyphen"/>lity and Self denial, what an invincible Pa<g ref="char:EOLhyphen"/>tience and Magnanimity, what a generous greatness of Soul, and contempt of the World, he manifested through the whole course of his life. His Example shews the conquest of the world to be both practicable and honourable. The world has already been conquer'd by the Captain of our Salvation; so that we have but a vanquish'd Enemy to encounter with, broken Forces to resist; and fighting under his Banners, may be assur'd, if we are not want<g ref="char:EOLhyphen"/>ing to our selves, of an easy Victory; Be<g ref="char:EOLhyphen"/>sides, the Person that hath led the way, and prevailed in this Combat, is the Son of God; and can any thing be more glorious, than to be, and to do like him? Thus our Lord buoy'd up his Disciples Spirits under all their Conflicts and Tryals; <hi>In the world ye shall have tribulation,</hi>
+                  <note place="margin">Joh. 16.33.</note>
+                  <hi>but be of good cheer, I have overcome the world.</hi>
+               </p>
+               <p n="3">
+                  <pb n="8" facs="tcp:103647:7"/>3. As the Christian Faith assures us of Su<g ref="char:EOLhyphen"/>pernatural Assistances, those of the Holy Spi<g ref="char:EOLhyphen"/>rit; God knows, that, as the case now stands betwixt us and the world, our weak Natures are so unequal a match for the many and strong Temptations that are against us, that we can promise our selves no security without large supplies of Grace from above; and therefore it is that God hath promis'd us his Holy Spirit, to stand by us, and to succour us; to relieve the Infirmities of our minds, and to defend us a<g ref="char:EOLhyphen"/>gainst our Temptations:<note place="margin">Luke 11.13.</note>
+                  <hi>If you that are evil know how to give good things unto your children, how much more shall God give his holy Spirit to them that ask him?</hi> That most kind and benign Spirit, whose delight is with the Sons of men, stands always ready to assist the generous Attempts of all sin<g ref="char:EOLhyphen"/>cere Persons after the Divine Life and Nature; he is daily insinuating into our minds, after a secret and invisible manner improving the light and reason of our Understandings, enlar<g ref="char:EOLhyphen"/>ging the power and liberty of our Wills, sub<g ref="char:EOLhyphen"/>duing of our Affections to worldly Objects, and raising them up, and fixing them on God and Goodness: The Devil is not so cunning to de<g ref="char:EOLhyphen"/>ceive
+<pb n="9" facs="tcp:103647:7"/> us, to lay snares to entr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p us, to admini<g ref="char:EOLhyphen"/>ster sui<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able solicitati<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns to those Lusts and Ap<g ref="char:EOLunhyphen"/>petites that are most predominant in us, as the Holy Spirit is wise to lead us into all Truth, and able to defend us against all his Wiles and Devices; <hi>Greater is he that is in you,</hi> says our Apostle, <hi>than he that is in the world.</hi>
+                  <note place="margin">1 Joh. 4 4. Rom 8.37.</note> And <hi>we are more than Conquerors,</hi> says St. <hi>Paul, through him that lovod us.</hi> Of the truth of which he himself was an eminent Instance, being able from his own experience to say, <hi>The world is cru<g ref="char:EOLhyphen"/>cified unto me, and I unto the world;</hi> that is,<note place="margin">Gal. 8.14.</note> by the Grace of the Gospel he was enabled to love the world as little as the world lov'd him; <hi>for what can separate us,</hi> says he in the same place to the <hi>Romans, from the love of Christ? And I am persuaded that nei<g ref="char:EOLhyphen"/>ther life, nor death, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height nor depth, nor any other creature;</hi> that is, that nei<g ref="char:EOLhyphen"/>ther hopes of life, nor fears of death, nor infer<g ref="char:EOLhyphen"/>nal spirits, nor Earthly Potentates, nor sufferings present, nor sufferings to come, nor height of Preferment, nor depth of Disgrace, nor any other thing, <hi>shall be able to separate us from the love of God which is in Christ Jesus our Lord?</hi>
+               </p>
+               <p n="4">
+                  <pb n="10" facs="tcp:103647:8"/>4. As the Christian Faith assures us of most Glorious Rewards after the Conquest: Rewards so far furmounting all that this world can pre<g ref="char:EOLhyphen"/>tend to, that they exceed them a whole Infinity, and will outlive them an Eternity: There is no more compare betwixt the after-expectations of a good man, and those things which the men of this world call present Enjoyments, than there is betwixt a Crown, and a Feather; Immortal <hi>Hallelujahs,</hi> and a Song; Solid Joys, and the Shadow of Smoke; all that Everlasting Heaven means, and some little things that come by chance, and stay but a while: Now the Na<g ref="char:EOLhyphen"/>ture of man being so fram'd, as to prefer a Great good before a Little one, and to abandon a Trifling Enjoyment for the sake of a more No<g ref="char:EOLhyphen"/>ble and Illustrious Happiness, it cannot but give away the one in exchange for the other; it cannot but give away a little Popu<g ref="char:EOLhyphen"/>lar Air, a little shining Dirt, the momentary Pleasures of a Lust, the neither Pleasures nor Profits of an Oath, the sick Delights of an Excess, and the Vexations of a Passion, in ex<g ref="char:EOLhyphen"/>change for them. The Apostles of Christ, and
+<pb n="11" facs="tcp:103647:8"/> Christ himself, look'd through the Miseries of this Life upon the Felicities of the next; they saw the Glory that was set before them, and this raised their minds above this world, above its Pomps and Vanities, above its Frowns and Persecutions; so speaks the Apostle,<note place="margin">2 Cor. 4.16, 17.</note>
+                  <hi>For this cause we faint not, tho our outward man decay, our inward man is renewed day by day, whilst we look not at the things that are seen, but at the things which are not seen; for the things that are seen are temporal, but the things that are not seen are eternal.</hi> Nay, the Patriarchs of old by a far dimmer Light, some broken Beams from under a Cloud, Types and Sha<g ref="char:EOLhyphen"/>dows, discover'd so much of the Heavenly <hi>Canaan,</hi> that it made them love God, and cleave to him in the midst of all those dif<g ref="char:EOLhyphen"/>ficulties he gave them to encounter with: In view of this Reward <hi>Abraham</hi> was content to leave his Countrey, his Kindred, and Re<g ref="char:EOLhyphen"/>lations, because he had his eye upon a better Countrey: In view of this Reward, <hi>Moses</hi> thought himself Rich without relation to the Court, Honourable without relation to <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi>'s Daughter, and Happy in the Afflictions of the People of God. The Pleasures of the
+<pb n="12" facs="tcp:103647:9"/> Court, the Treasures of <hi>Egypt,</hi> the Lustre of a Royal Family, signified nothing to that Faith that ey'd better things,<note place="margin">Heb. 11.26.</note> and had <hi>respect to the recompence of reward.</hi>
+               </p>
+               <p>All the Advantage this World has on its side, is, That its Forces are present and at hand, whilst those of the other world are lookt upon at a distance, and a great way off: But now Faith removes this odds, and sets them on the square, by making those of the other world present too;<note place="margin">Heb. 11.1.</note> for <hi>Faith,</hi> says the Apostle, <hi>is the Substance of things hoped for, and the Evidence of things not seen:</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> The <hi>Substance,</hi> the Subsistence, the very Being of things hoped for;<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> the <hi>Evidence,</hi> the Revelation of things not seen; That is, Faith gives us as full an Assurance of the things we hope for, as if we had them in possession; and represents the things we see not, as convincingly to our minds, as if they were in sight: Faith has a kind of Prerogative like that of God, it has, as it were, an All-seeing Eye, invisible things are discern'd by it, and future things are present to it: Now by this alone is it of Force enough to overcome the
+<pb n="13" facs="tcp:103647:9"/> world; for the Powers of the World to come, being made as certain by Faith, as those of this World are by sight, those of this World are so infinitely inferior, that they cannot stand before them.</p>
+               <p n="5">5. As the Christian Faith represents to us the dismal effects and consequences of being overcome by the world; no less than the loss of the Soul, and all that's Glorious and Happy, together with an endless state of insupportable Torments; a Loss, that in the Judgment of our Saviour (who best knew the Value of Souls, that purchased them with his Blood) the gain of the whole world is not able to repair and make amends for: <hi>What shall it profit a man,</hi> says he,<note place="margin">Matt. 16.26.</note>
+                  <hi>if he shall gain the whole world, and lose his own soul? and what shall a man give in exchange for his soul?</hi> Here's a fair stating of the Case; our Saviour seems to suppose a Case which never yet hap<g ref="char:EOLhyphen"/>pened, that one man should make himself Lord of the Universe, and have a Confluence of all the sweetnesses the whole Creation could afford him, and that he should enjoy these
+<pb n="14" facs="tcp:103647:10"/> without interruption, from the very first mo<g ref="char:EOLhyphen"/>ment of his life, to the last; and yet, if for the sake of these he should lose his Soul, he would make but a very sad bar<g ref="char:EOLhyphen"/>gain; and for the Truth of this he appeals to the general sense of mankind, in the next words; and <hi>what shall a man give in exchange for his soul?</hi> The words have a Potential Signification, and import thus much, How great things will a man give in exchange for his Soul? Where our Saviour alludes to that known Proverb among the <hi>Jews, Skin for skin, and all that a man has, will he give for his life:</hi> And his Argument runs thus, If a man con<g ref="char:EOLhyphen"/>demned to dye, and to suffer the Pains of a cruel Death, would willingly give all that he possesses in this world, to be delivered from it, because thereby he would be ren<g ref="char:EOLhyphen"/>dred uncapable of enjoying this world; How much more would he give the whole world, had he it in his power, to be delivered from an Eternal Death? because thereby he would not only be rendred uncapable of enjoying this world, but become moreover everlasting<g ref="char:EOLhyphen"/>ly miserable.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="15" facs="tcp:103647:10"/>
+               <head>IV. I proceed to the Fourth Enquiry; it may be said, If the Forc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Faith are so Strong and Numerous, how comes it to pass, that notwithstanding them, Faith is so often overcome by the world?</head>
+               <p>Of this I shall give an Account in these Two Particulars: (1.) Because our Faith is many times weak. (2.) Because it is many times corrupted.</p>
+               <p n="1">1. Because our Faith is many times weak, either through the shallowness of the root it hath taken, or for want of being excited by due Consideration.</p>
+               <p>The ground may be stony, and its root shallow; this man sees not Reason enough to believe, and he has not Confidence enough for the contrary; he is of a doubtful or dou<g ref="char:EOLhyphen"/>ble mind, as St. <hi>James</hi> speaks; his Faith is wa<g ref="char:EOLhyphen"/>vering, and he is but an Almost-Christian; it is risen no higher than Guess and Conje<g ref="char:EOLhyphen"/>cture; and that will not do; no man will
+<pb n="16" facs="tcp:103647:11"/> deny himself what he feels to be pleasant and delightful at present, upon mere proba<g ref="char:EOLhyphen"/>bilities and peradventures; he'll be sure of something better hereafter, before he parts with what he now apprehends to be good.</p>
+               <p>Or else his Faith may be asleep, and wants to be awaken'd; and whilst it is in that dull and inactive state, like a Weapon that lies by, or a Remedy not us'd, it stands him in no more stead, than if he had no Faith at all; whereas did he excite and stir up his Faith, put Life and Vigor into it by due Conside<g ref="char:EOLhyphen"/>ration, it would be of strength enough to re<g ref="char:EOLhyphen"/>move Mountains, if I may so call the Lusts of men, and nothing would be able to stand before it: Did he, as often as a Temptati<g ref="char:EOLhyphen"/>on assaults him, presents him an opportuni<g ref="char:EOLhyphen"/>ty either to injure his Neighbour, or to abuse himself, rally up all the Forces of Faith against it; did he consider that the Pleasures of Sin are transient and vain, unsatisfying and emp<g ref="char:EOLhyphen"/>ty; that he must dye and come to Judgment, and then wish, when it is too late, that he had never done it; that by his sin he highly
+<pb n="17" facs="tcp:103647:11"/> displeases God, who made him, who feeds him, who cloaths him, who fain would save him: Did he often revolve in his mind the unspeakable Joys of Heaven, and the Horrors and Amasements of a sad Eternity: These Considerations, one would think, should be of force enough to make him withstand the Temptation; and so they would, did he remember them, think and consider of them: But alas! he shuffles all these Arguments to<g ref="char:EOLhyphen"/>gether, forgets them as soon as he heard them; and foolishly ventures at all, and does the thing; not because he thinks it fit to be done, but because he will not stay and consider whether it be fit to be done or no.</p>
+               <p n="2">2. Because it is many times corrupted; and at this Door also are we to lay in a great measure the many shameful Baffles and Over<g ref="char:EOLhyphen"/>throws the Christian receives from the world, his Corrupt Opinions and Doctrines; the false Glosses and Expositions, the Forgeries and In<g ref="char:EOLhyphen"/>ventions of men have usually the same fatal influence on Faith, as Sickness and Diseases
+<pb n="18" facs="tcp:103647:12"/> have on the Body; they soon enfeeble and dispirit it, by degrees taint the whole mass, and so alter its very Constitution, that it be<g ref="char:EOLhyphen"/>comes <hi>another Faith,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Gal. 1.6.</note> and administers to other purposes. But these are so many, as well a<g ref="char:EOLhyphen"/>mongst some of the Reform'd, as in the Church of <hi>Rome,</hi> that I should hold you too long at present to enter upon them: I shall therefore pass them over with this one general Remark; That whatever Doctrine amongst the one, or the other, that tends to stifle Endeavour, and to bolster men up in a lazy Presumpti<g ref="char:EOLhyphen"/>on of God's doing all for them; that dero<g ref="char:EOLhyphen"/>gates from the Infinite Merit and Efficacy of our Saviour's Death, or abates the force of the Promises and Threatnings of the Gospel; that provides Excuses and Subterfuges for Vice, or in any degree undermines the necessity of ho<g ref="char:EOLhyphen"/>ly living; is a corruption of the Christian Faith, and what takes part with the world against us, instead of aiding us to conquer the world.</p>
+               <p>The Conclusion of all is this; That since it's Faith that overcomes the world;
+<pb n="19" facs="tcp:103647:12"/> and it is, through the weakness and corrup<g ref="char:EOLhyphen"/>tion of it, that it so often miscarries; that we would use our utmost diligence to keep our Faith strong and vigorous, pure and un<g ref="char:EOLhyphen"/>defiled.</p>
+               <p n="1">1. Strong and vigorous; We must not take it upon trust, and at all adventure, but exa<g ref="char:EOLhyphen"/>mine the Evidences of it, and the grounds of Credibility on which it is built. To this purpose it will be of great advantage to us, often to repeat over in our minds the several branches of our Faith, and meditate on the mighty confirmation it receiv'd: Think often on the Prophesies that foretold it, on the Mi<g ref="char:EOLhyphen"/>racles wrought by Christ and his Apostles in testimony of it; how it was seal'd by the Blood of the Son of God, and of thousands of others that died for its sake; and how the Proof it receiv'd was so full and strong, that a great part of the world was convinc'd of it in such a manner, as that Millions chose rather to lose their lives, than not confess it; that all Torments were more eligible than the dis<g ref="char:EOLhyphen"/>belief of it; and that in spight of all the
+<pb n="20" facs="tcp:103647:13"/> Arts and Powers of Opposition, it overspread the Universe.</p>
+               <p n="2">2. Pure and undefiled. And the best way to do this, is always to fetch it from the Foun<g ref="char:EOLhyphen"/>tain-head: The Catholick Faith was once de<g ref="char:EOLhyphen"/>liver'd to the Saints, transmitted down to Po<g ref="char:EOLhyphen"/>sterity in the Sacred Writings of the <hi>New Testament,</hi> so clear and full as to its main and fundamental Points, that it neither needs an Infallible Judge to interpret it, or any Humane Traditions to supply the defects of it. This written Word, the Reform'd pro<g ref="char:EOLhyphen"/>fess, and that truly, contains the whole Chri<g ref="char:EOLhyphen"/>stian Faith; but the <hi>Romanist</hi> will have it bring down but a part, and leaves the rest for Tradition; but Writing is the best way to convey down Divine Truth, or it is not: If it be not, why was any of it writ<g ref="char:EOLhyphen"/>ten? If it be, why not the whole? But that it is the best way, appears from the Holy Ghost's making choice of this way, as to a part, by their own confession; but if as to a part, then it follows, as to the whole; or else the Holy Ghost did not
+<pb n="21" facs="tcp:103647:13"/> do what is best as to that which is un<g ref="char:EOLhyphen"/>written.</p>
+               <p>Did we now thus strengthen our Faith, and keep it pure and undefiled, it would become an irresistible Weapon, and with it we might safely venture out against all the force of the Enemy. Well might St. <hi>Paul</hi> call it, <hi>The good fight of faith:</hi> This will enable a man to resist all Temptations to any forbidden Pleasure, or unlawful Gain; this will enable him to bear with patience the greatest Evils, rather than let go his Integrity: This will subdue all his inordi<g ref="char:EOLhyphen"/>nate Desires after the good things of this world; this will remove all his Distracting Fears of the evils of it; this will make him sober, just and holy; this will make him wise, and strong, and patient; this will make him Partaker of a Divine Nature, and fit him for Heaven, by working in him an heavenly frame and temper of mind; this will not only conquer this world, but that also which is to come; it will trample on this, lay hold on that, and at last give
+<pb n="22" facs="tcp:103647:14"/> us a full possession of it; when our Faith will become all Vision, our Hope fruition; when we shall receive the end of our Faith, even the Salvation of our Souls; Which God grant for the sake of our Lord Jesus: To whom with, <hi>&amp;c.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:103647:14"/>
+            <list>
+               <head>BOOKS <hi>Printed for</hi> Richard Chiswell.</head>
+               <item>THE Character of Q. <hi>Elizabeth,</hi> or a full and clear Account of her Policies, and the Methods of her Government both in Church and State: Her Virtues and Defects. Together with the Character of her Prin<g ref="char:EOLhyphen"/>cipal Ministers of State; and the greatest part of the Affairs and Events that happen'd in her Times. Collect<g ref="char:EOLhyphen"/>ed and faithfully represented by <hi>Edmund Bohun,</hi> Esq. 8<hi>vo.</hi>
+               </item>
+               <item>The Letters of the Renowned Father <hi>Paul,</hi> Counsel<g ref="char:EOLhyphen"/>lor of State to the most Serene Republick of <hi>Venice,</hi> and Author of the excellent History of the Council of <hi>Trent.</hi> Written to Monsieur <hi>Del' Isle Groslot,</hi> a Noble Protestant of <hi>France;</hi> the Learned Monsieur <hi>Gillot,</hi> and others; in a Correspondence of divers Year. Translated out of <hi>Ita<g ref="char:EOLhyphen"/>lian</hi> by <hi>Edward Brown,</hi> Rector of <hi>Sundridge</hi> in <hi>Kent.</hi> 8<hi>vo.</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Sermons Preached on several Occasions, by <hi>John Conant,</hi> D. D. 8<hi>vo.</hi>
+               </item>
+               <item>A Discourse of the Government of the Thoughts: By <hi>George Tully,</hi> Sub-Dean of <hi>Tork.</hi> 8<hi>vo.</hi>
+               </item>
+               <item>
+                  <hi>Origo Legum;</hi> or a Treatise of the Origine of Laws, and their Obliging Power; as also of their great Varie<g ref="char:EOLhyphen"/>ty, and why some Laws are Immutable, and some not, but may suffer Change, or Cease to be, or be Suspended or Abrogated: In Seven Books. By <hi>George Dawson,</hi> M. A. <hi>Folio.</hi>
+               </item>
+               <item>Memorials of the most Reverend Father in God, <hi>Tho<g ref="char:EOLhyphen"/>mas Cranmer,</hi> sometime Lord Archbishop of <hi>Canterbury;</hi> wherein the History of the Church, and the Reforma<g ref="char:EOLhyphen"/>tion of it, during the Primacy of the said Archbishop, are greatly illustrated, and many singular Matters rela<g ref="char:EOLhyphen"/>ting thereunto, now first Published, in Three Books. Collected chiefly from Records, Registers, Authentick Letters, and other Original Manuscripts. By <hi>John Strype,</hi> M. A. <hi>Fol.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
